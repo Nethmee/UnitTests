@@ -31,3 +31,7 @@ export const getPackagesByProductId = (productId) =>{
     return pack;
   }
   
+  export const getlowestCombination = (productId,qty) =>{
+
+    
+  }
