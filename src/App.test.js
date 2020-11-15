@@ -7,11 +7,7 @@ import {getPackageById} from './components/inventory';
 import {getPackagesByProductId} from './components/inventory';
 import {add} from './components/inventory'
 
-/* test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-}); */
+
 
 /* test ('add', ()=>{
   const value = add(1,2)
